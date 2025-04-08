@@ -1,0 +1,26 @@
+{
+  "name": "graphql-friendsbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.23",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "graphql-http": "^1.22.4",
+    "helmet": "^8.1.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9",
+    "ruru": "^2.0.0-beta.22"
+  }
+}
