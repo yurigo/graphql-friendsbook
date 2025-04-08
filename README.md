@@ -38,7 +38,7 @@ npm run dev
 ## Notas de desarrollo
 
 Se ha utilizado un boilerplate[^1] básico.
-Se ha añadido `@grapqhql-tools/schema`. [(Ver versión sin `@graphql-tools/schema`)](https://github.com/yurigo/DSL-2425/tree/master/examples/graphql-friends)
+Se ha añadido `@grapqhql-tools/schema`. [(Ver versión sin `@graphql-tools/schema`)](https://github.com/yurigo/graphql-friendsbook/tree/without-graphql-tools)
 Se han implementado typedefs y resolvers con `@graphql-tools/schema`[^2].
 
 Se pasa de una implementación básica a una implementación más robusta y escalable utilizando resolvers y typedefs de `@graphql-tools/schema`:
